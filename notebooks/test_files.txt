@@ -1,0 +1,428 @@
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00169.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00108.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00079.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00109.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00368.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00278.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00013.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00129.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00051.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00339.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00029.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00244.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00015.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00067.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00013.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00032.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00372.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00035.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00185.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00004.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00072.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00302.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00074.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00414.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00145.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00064.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00164.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00205.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00171.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00416.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00050.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00103.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00334.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00125.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00399.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00546.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00306.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00202.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00072.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00136.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00018.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00045.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00052.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00073.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00060.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00290.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00050.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00075.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00051.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00052.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00113.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00096.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00200.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00144.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00456.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00017.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00531.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00177.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00189.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00119.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00292.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00161.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00114.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00120.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00117.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00099.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00308.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00446.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00192.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00110.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00344.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00015.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00076.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00062.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00079.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00134.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00040.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00036.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00428.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00037.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00118.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00201.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00199.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00042.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00148.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00188.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00065.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00084.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00507.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00019.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00292.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00023.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00332.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00214.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00339.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00208.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00243.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00578.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00227.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00263.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00206.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00251.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00174.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00468.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00403.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00237.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00093.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00325.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00211.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00070.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00066.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00202.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00097.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00521.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00417.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00381.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00030.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00052.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00080.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00074.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00181.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00298.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00204.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00139.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00050.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00451.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00106.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00534.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00232.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00248.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00077.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00037.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00141.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00267.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00083.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00156.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00049.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00391.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00033.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00176.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00382.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00347.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00184.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00128.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00159.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00130.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00173.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00296.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00529.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00014.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00139.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00249.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00097.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00412.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00108.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00160.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00060.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00172.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00049.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00024.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00055.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00217.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00364.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00127.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00316.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00061.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00145.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00082.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00066.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00195.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00129.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00121.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00031.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00197.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00219.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00082.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00392.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00021.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00021.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00269.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00169.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00366.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00255.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00374.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00312.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00173.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00338.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00202.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00402.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00036.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00300.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00201.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00194.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00158.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00272.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00145.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00203.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00008.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00201.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00088.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00234.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00014.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00028.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00429.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00378.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00242.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00485.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00196.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00176.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00044.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00473.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00056.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00386.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00075.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00064.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00528.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00263.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00226.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00056.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00104.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00394.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00035.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00225.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00229.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00229.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00112.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00137.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00095.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00001.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00126.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00218.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00256.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00162.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00136.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00054.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00304.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00059.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00551.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00354.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00119.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00065.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00328.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00022.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00178.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00063.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00109.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00199.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00144.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00037.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00067.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00524.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00105.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00410.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00421.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00066.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00430.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00055.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00213.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00181.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00029.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00356.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00169.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00141.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00115.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00003.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00107.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00125.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00020.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00175.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00493.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00210.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00047.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00333.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00206.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00196.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00577.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00203.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00329.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00103.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00482.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00193.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00519.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00378.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00289.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00172.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00039.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00033.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00122.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00220.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00036.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00018.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00341.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00140.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00464.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00258.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00221.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00084.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00049.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00453.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00013.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00192.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00207.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00457.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00518.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00413.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00014.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00058.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00248.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00080.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00204.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00234.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00073.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00046.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00362.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00098.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00046.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00163.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00141.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00222.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00204.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00012.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00108.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00233.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00184.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00015.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00063.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00235.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00185.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00027.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00027.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00245.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00094.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00095.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00006.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00016.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00208.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00093.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00022.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00104.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00070.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00187.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00009.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00175.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00450.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00414.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00210.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00212.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00182.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00124.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00121.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00161.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00007.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00192.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00086.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00056.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00143.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00159.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00500.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00032.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00497.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00091.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00516.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00310.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00400.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00073.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00115.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00205.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00231.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00537.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00084.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00177.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00390.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00096.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00084.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00218.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00113.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00048.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00070.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00107.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00195.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00426.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00408.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00083.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00227.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00053.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00092.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00029.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00020.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00206.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00029.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00097.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00237.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00043.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00061.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00471.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00164.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00253.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00046.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00150.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00095.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00221.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00219.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00076.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00174.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00111.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00052.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00120.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00574.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00105.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00146.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00059.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00067.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Bacterial Blight/BBC00210.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Variegation/LV00009.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00384.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00187.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00130.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00001.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00355.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00089.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00406.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00032.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Healthy Leaf/HL00097.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Herbicide Growth Damage/HGD00143.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Curl Virus/CV00053.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Hopper Jassids/LHJ00148.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00308.jpg
+/teamspace/studios/this_studio/8-phases/SAR-CLD-2024 A Comprehensive Dataset for Cotton Leaf Disease Detection/Original Dataset/Leaf Redding/LR00067.jpg

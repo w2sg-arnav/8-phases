@@ -1,0 +1,7 @@
+notebooks/checkpoints/*.pth*.pyc
+__pycache__/
+.DS_Store
+wandb/
+*.pth
+*.log
+notebooks/unet_segmentation_model.pth

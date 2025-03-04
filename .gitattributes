@@ -1,0 +1,2 @@
+notebooks/checkpoints/*.pth filter=lfs diff=lfs merge=lfs -text
+notebooks/unet_segmentation_model.pth filter=lfs diff=lfs merge=lfs -text
