@@ -1,0 +1,3 @@
+num_ftrs: 768
+out_dim: 128
+learning_rate: 0.0001

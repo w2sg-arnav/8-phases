@@ -11,6 +11,9 @@ from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 import albumentations as A
 from albumentations.pytorch import ToTensorV2
+from torchvision.models import vit_b_16, ViT_B_16_Weights #For ViT model
+import torch.nn as nn #For ViT model
+
 
 def get_transforms(image_size=(224, 224), train=True):
     """
@@ -83,29 +86,48 @@ def segment_leaf(image):
 
     return segmented_image_img, leaf_mask_img
 
-
-
-class CottonDataset(Dataset):
-    def __init__(self, image_paths, labels, transform=None):
-        self.image_paths = image_paths
-        self.labels = labels
+class PILTransform:  # Ensure this is in data_utils.py
+    def __init__(self, transform):
         self.transform = transform
 
+    def __call__(self, img):
+        if not isinstance(img, Image.Image):
+            img = Image.fromarray(img)
+        return self.transform(image=np.array(img))['image']
+
+class CottonDataset(Dataset):
+    def __init__(self, root_dir, transform=None):
+        self.root_dir = root_dir
+        self.transform = transform
+        self.file_paths = []
+        self.labels = []  # You might not use labels in SSL, but keep for consistency
+
+
+        # --- MODIFIED: Load file paths correctly, handle subdirectories ---
+        for class_name in os.listdir(root_dir): #Bacterial Blight, Healthy, etc.
+            class_dir = os.path.join(root_dir, class_name)
+            if os.path.isdir(class_dir):
+                for file_path in glob.glob(os.path.join(class_dir, "*.jpg")) + glob.glob(os.path.join(class_dir, "*.png")):
+                    self.file_paths.append(file_path)
+                    self.labels.append(class_name) # Append class name for consistency, even if not used.
+
+        print(f"Found {len(self.file_paths)} files")  # DEBUG
+        print(f"First 5 file paths: {self.file_paths[:5]}")  # DEBUG
+
     def __len__(self):
-        return len(self.image_paths)
+        print(f"Dataset length: {len(self.file_paths)}")  # DEBUG
+        return len(self.file_paths)
 
     def __getitem__(self, idx):
-        image_path = self.image_paths[idx]
-        image = Image.open(image_path).convert('RGB')
-        image = np.array(image)  # Convert PIL Image to NumPy array
-        label = self.labels[idx]
+        image_path = self.file_paths[idx]
+        image = Image.open(image_path).convert("RGB")
+        label = self.labels[idx] # consistent with supervised, even if unused
+        #label = torch.tensor(label, dtype=torch.long) #don't need this now
 
         if self.transform:
-            transformed = self.transform(image=image)  # Pass image to transform
-            image = transformed['image']
+            image = self.transform(image)
 
-        return image, label
-
+        return image, label # Return label for consistency
 
 def create_data_loaders(data_dir, train_transform, val_transform, batch_size, num_workers, classes):
     """Creates training, validation, and test data loaders."""
@@ -115,7 +137,7 @@ def create_data_loaders(data_dir, train_transform, val_transform, batch_size, nu
 
     for cls in classes:
         class_dir = os.path.join(data_dir, cls)
-        for image_file in glob.glob(os.path.join(class_dir, '*.jpg')):
+        for image_file in glob.glob(os.path.join(class_dir, '*.jpg')) + glob.glob(os.path.join(class_dir, '*.png')): #Added png support
             image_paths.append(image_file)
             labels.append(class_to_idx[cls])
 
@@ -133,12 +155,27 @@ def create_data_loaders(data_dir, train_transform, val_transform, batch_size, nu
     print("Test:", test_paths[:5])
     print("----------------------------------------")
 
-    train_dataset = CottonDataset(train_paths, train_labels, transform=train_transform)
-    val_dataset = CottonDataset(val_paths, val_labels, transform=val_transform)
-    test_dataset = CottonDataset(test_paths, test_labels, transform=val_transform)
+    # --- Use file paths and labels directly with PILTransform ---
+    train_dataset = CottonDataset(data_dir, transform=PILTransform(train_transform))
+    val_dataset = CottonDataset(data_dir, transform=PILTransform(val_transform))
+    test_dataset = CottonDataset(data_dir, transform=PILTransform(val_transform))
+    # ---------------------------------------------------------
 
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=num_workers, pin_memory=True)
     val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
     test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, num_workers=num_workers, pin_memory=True)
 
     return train_loader, val_loader, test_loader
+
+#get_vit_model function
+def get_vit_model(pretrained=True, num_classes=7):
+    if pretrained:
+        weights = ViT_B_16_Weights.DEFAULT
+    else:
+        weights = None
+    model = vit_b_16(weights=weights)
+    if num_classes != 1000:
+        model.heads = nn.Sequential(  # THIS IS CRITICAL
+            nn.Linear(model.heads[0].in_features, num_classes)
+        )
+    return model
